@@ -264,3 +264,10 @@ if has("gui_running")
     map <D-9> 9gt
     map <D-0> :tablast<CR>
 endif
+" windows Alpha
+"自动透明
+"au GUIEnter * call libcallnr("vimtweak.dll", "SetAlpha", 234)
+"几个更改alpha的快捷键
+"map <M-8> <Esc>:call libcallnr("vimtweak.dll", "SetAlpha", 180) <CR>
+"map <M-9> <Esc>:call libcallnr("vimtweak.dll", "SetAlpha", 230) <CR>
+"map <M-0> <ESC>:call libcallnr("vimtweak.dll", "SetAlpha", 255) <CR>
