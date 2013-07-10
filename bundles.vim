@@ -21,6 +21,7 @@ Bundle 'Raimondi/delimitMate'
 "------ snipmate dependencies -------
 Bundle 'MarcWeber/vim-addon-mw-utils'
 Bundle 'tomtom/tlib_vim'
+Bundle 'wincent/command-t.git'
 
 "-----------------
 " Fast navigation
