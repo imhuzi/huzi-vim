@@ -1,5 +1,3 @@
-call pathogen#infect()
-call pathogen#helptags()
 source ~/.vim/bundles.vim
 
 " encoding dectection
