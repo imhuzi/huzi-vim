@@ -76,6 +76,7 @@ Bundle 'wavded/vim-stylus'
 Bundle 'nono/vim-handlebars'
 Bundle 'Valloric/MatchTagAlways.git'
 Bundle 'skammer/vim-css-color'
+Bundle 'docunext/closetag.vim.git'
 
 "------- markup language -------
 Bundle 'tpope/vim-markdown'
@@ -86,6 +87,8 @@ Bundle 'timcharper/textile.vim'
 
 "------- Go ----------
 Bundle 'jnwhiteh/vim-golang'
+"--------python------
+Bundle 'kevinw/pyflakes-vim.git'
 
 "------- FPs ------
 Bundle 'kien/rainbow_parentheses.vim'
