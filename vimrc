@@ -1,4 +1,6 @@
+"on linux
 "source ~/.vim/bundles.vim
+"on windows
 source $HOME/.vim/bundles.vim
 
 " encoding dectection
@@ -241,8 +243,10 @@ nnoremap ; :
 " for macvim
 if has("gui_running")
     set go=aAce  " remove toolbar
-    "set transparency=30
+    set transparency=30
+    "on linux font
     set guifont=Monaco:h13
+    "on windows font
     "set guifont=YaHei_Mono:h13
     set showtabline=2
     set columns=140

@@ -1,7 +1,8 @@
 set nocompatible               " be iMproved
 filetype off                   " required!
-
+"on linux path
 "set rtp+=~/.vim/bundle/vundle/
+"on windows path
 set rtp+=$HOME/.vim/bundle/vundle/
 call vundle#rc()
 
