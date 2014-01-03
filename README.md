@@ -14,6 +14,5 @@ git clone --recursive git@github.com:ImGeeker/huzi-vim.git ~/.vim
 brew install macvim
 git clone --recursive git@github.com:ImGeeker/huzi-vim.git ~/.vim
 ln -s ~/.vim/vimrc ~/.vimrc
-ln -s ~/.vim/gvimrc ~/.gvimrc
 </pre>
 
