@@ -8,6 +8,12 @@ huzi-vim
 <pre>
 apt-get install vim gvim
 git clone --recursive git@github.com:ImGeeker/huzi-vim.git ~/.vim
+"install plugins:
+:BundleInstall
+"update plugins:
+:BundleInstall!
+"uninstall plugins:
+:BundleClean"
 </pre>
 ####mac
 <pre>
