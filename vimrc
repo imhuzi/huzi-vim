@@ -35,6 +35,7 @@ set ignorecase
 set smartcase
 
 " editor settings
+set fileformat=unix
 set history=1000
 set nocompatible
 set nofoldenable                                                  " disable folding"
