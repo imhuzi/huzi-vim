@@ -7,13 +7,13 @@ huzi-vim
 ####linux
 <pre>
 apt-get install vim gvim
-git clone --recursive git@github.com:ImGeeker/huzi-vim.git ~/.vim
+git clone --recursive git@github.com:imhuzi/huzi-vim.git ~/.vim
 
 </pre>
 ####mac
 <pre>
 brew install macvim
-git clone --recursive git@github.com:ImGeeker/huzi-vim.git ~/.vim
+git clone --recursive git@github.com:imhuzi/huzi-vim.git ~/.vim
 ln -s ~/.vim/vimrc ~/.vimrc
 </pre>
 
